@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Rajin Maharjan 👋
 
 <!--
 **Ra-Zin/Ra-Zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a computer science student passionate about code and learning new programming languages and building projects.
+
+## What I'm working on:
+- Building some personal projects
+- Exploring AI and Machine Learning
+
+## Tech Stack
+- Frontend: HTML, CSS, JS
+- Backend: PHP, Python, Java
+- Database: MongoDB
+- Tools: Git
