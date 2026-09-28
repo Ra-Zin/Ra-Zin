@@ -22,7 +22,8 @@ I am a computer science student passionate about code and learning new programmi
 - Exploring AI and Machine Learning
 
 ## Tech Stack
-- Frontend: HTML, CSS, JS
+- Frontend: HTML, CSS, JS, React
 - Backend: PHP, Python, Java
-- Database: MongoDB
-- Tools: Git
+- Game Development: C#
+- Database: MongoDB, MariaDB
+- Tools: Git, Unity
